@@ -1,5 +1,5 @@
 # Site settings
-baseurl = ""
+baseurl = "https://hugoroca.netlify.com/"
 languageCode = "es-PE"
 title = "Hugo - Colección de proyectos personales"
 theme = "hugrid"
