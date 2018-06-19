@@ -9,7 +9,7 @@ googleAnalytics = "UA-XXXXXXXX-Y"
 contentdir = "content"
 datadir = "data"
 layoutdir = "layouts"
-publishDir = "docs"
+publishDir = "public"
 
 # Enable comments by entering your Disqus shortname
 disqusShortname = "HugoRoca"
