@@ -10,8 +10,6 @@ contentdir = "content"
 datadir = "data"
 layoutdir = "layouts"
 publishDir = "public"
-
-# Enable comments by entering your Disqus shortname
 disqusShortname = "hugoroca"
 
 [params]
