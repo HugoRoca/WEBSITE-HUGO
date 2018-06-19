@@ -1,5 +1,5 @@
 # Site settings
-baseurl = "http://example.org/"
+baseurl = ""
 languageCode = "es-PE"
 title = "Hugo - Colección de proyectos personales"
 theme = "hugrid"
