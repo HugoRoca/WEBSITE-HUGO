@@ -1,35 +1,59 @@
-# Site settings
-baseurl = "https://hugoroca.netlify.com/"
-languageCode = "es-PE"
-title = "Hugo - Colección de proyectos personales"
-theme = "hugrid"
-# Enter your tracking code to enable Google Analytics
-googleAnalytics = "UA-XXXXXXXX-Y"
+baseurl = ""
+title = "Hugo Roca"
 
+theme = "hugo-coder"
+
+languagecode = "es"
+
+paginate = 20
+canonifyurls = true
+
+pygmentsstyle = "b2"
+pygmentscodefences = true
+pygmentscodefencesguesssyntax = true
+
+disqusShortname = "yourdiscussshortname"
 contentdir = "content"
 datadir = "data"
 layoutdir = "layouts"
-publishDir = "public"
-disqusShortname = "hugoroca"
+publishdir = "docs"
 
 [params]
-    # Meta
-    title = "Hugo Roca"
-    subtitle = "Colección de proyectos personales a código abierto"
-    author = "Pavel Kanyshev"
-    description = "Hugrid - grid theme for Hugo with an expanding image preview."
-    keywords = "Hugo, Hugo theme, grid theme, portfolio, bookmarks, collection, contacts"
+    author = "Hugo Roca"
+    description = "Este es mi sitio web personal"
+    keywords = "developer,personal,software"
+    info = "Consultor de Análisis y programación"
+    avatarurl = "images/avatar.jpg"
+    footercontent = ".Net, Java, PHP, Javascript, jQuery"
 
-    # Body background color
-    bodybgcolor = "#f9f9f9"
+    hideCredits = false
+    hideCopyright = false
 
-    # Preview container button text
-    buttontext = "Más información"
 
-    # Footer text
-    footertext = "Made by [Codrops](http://tympanus.net/codrops/2013/03/19/thumbnail-grid-with-expanding-preview/), [Hugo](http://gohugo.io) and [me](https://github.com/HugoRoca)"
+    # Custom CSS
+    custom_css = []
 
-    # add extra-css
-    # custom_css = ['css/extra1.css', 'css/extra2.css']
+    # RTL support
+    rtl = false
 
-    BaseURL = "images/"
+[[params.social]]
+    name = "Github"
+    weight = 1
+    url = "https://github.com/HugoRoca"
+[[params.social]]
+    name = "Facebook"
+    weight = 2
+    url = "https://www.facebook.com/huugooroca.Huugoo"
+[[params.social]]
+    name = "LinkedIn"
+    weight = 3
+    url = "https://www.linkedin.com/in/hugoroca"
+
+[[menu.main]]
+    name = "Experiencia Laboral"
+    weight = 1
+    url  = "/posts/"
+[[menu.main]]
+    name = "Contacto"
+    weight = 2
+    url = "/about/"
