@@ -1,5 +1,5 @@
 +++
-title = "About Hugo"
+title = "Acerca de mi"
 slug = "contacto"
 +++
 

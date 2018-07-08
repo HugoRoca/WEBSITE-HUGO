@@ -1,9 +1,9 @@
-baseurl = "https://hugoroca.github.io/"
+baseurl = ""
 title = "Hugo Roca"
 
 theme = "hugo-coder"
 
-languagecode = "es"
+languagecode = "es-PE"
 
 paginate = 20
 canonifyurls = true
@@ -50,7 +50,7 @@ publishdir = "public"
     url = "https://www.linkedin.com/in/hugoroca"
 
 [[menu.main]]
-    name = "Experiencia Laboral"
+    name = "Experiencia"
     weight = 1
     url  = "/experiencia/"
 [[menu.main]]
