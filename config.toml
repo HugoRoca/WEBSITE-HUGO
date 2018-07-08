@@ -1,4 +1,4 @@
-baseurl = ""
+baseurl = "https://hugoroca.github.io/"
 title = "Hugo Roca"
 
 theme = "hugo-coder"
@@ -16,7 +16,7 @@ disqusShortname = "yourdiscussshortname"
 contentdir = "content"
 datadir = "data"
 layoutdir = "layouts"
-publishdir = "docs"
+publishdir = "public"
 
 [params]
     author = "Hugo Roca"
@@ -52,8 +52,8 @@ publishdir = "docs"
 [[menu.main]]
     name = "Experiencia Laboral"
     weight = 1
-    url  = "/posts/"
+    url  = "/experiencia/"
 [[menu.main]]
     name = "Contacto"
     weight = 2
-    url = "/about/"
+    url = "/contacto/"
