@@ -24,7 +24,7 @@ publishdir = "public"
     keywords = "developer,personal,software"
     info = "Consultor de Análisis y programación"
     avatarurl = "images/avatar.jpg"
-    footercontent = ".Net, Java, PHP, Javascript, jQuery"
+    footercontent = ".Net, Java, PHP, Javascript"
 
     hideCredits = false
     hideCopyright = false
