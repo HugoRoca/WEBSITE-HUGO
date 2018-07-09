@@ -24,7 +24,7 @@ publishdir = "public"
     description = "Este es mi sitio web personal"
     keywords = "developer,personal,software"
     info = "Consultor de Análisis y programación"
-    avatarurl = "https://preview.ibb.co/gdCP6o/avatar.jpg"
+    avatarurl = "images/avatar.jpeg"
     footercontent = ".Net, Java, PHP, Javascript"
 
     hideCredits = false
