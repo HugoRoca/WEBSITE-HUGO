@@ -16,6 +16,7 @@ disqusShortname = "yourdiscussshortname"
 contentdir = "content"
 datadir = "data"
 layoutdir = "layouts"
+staticdir = "static"
 publishdir = "public"
 
 [params]
@@ -23,7 +24,7 @@ publishdir = "public"
     description = "Este es mi sitio web personal"
     keywords = "developer,personal,software"
     info = "Consultor de Análisis y programación"
-    avatarurl = "images/avatar.jpg"
+    avatarurl = "https://preview.ibb.co/gdCP6o/avatar.jpg"
     footercontent = ".Net, Java, PHP, Javascript"
 
     hideCredits = false
