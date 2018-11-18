@@ -1,6 +1,7 @@
 {
-	"title" : "hey world, i'm",
-	"highlightedText" : "valentina",
-	"description" : "A graphics designer, based in Germany",
+	"title" : "Hola Mundo, soy",
+	"highlightedText" : "Hugo",
+	"description" : "Consultor de Análisis y Programación",
+	"url": "https://hugorocaproyectos.js.org",
 	"displayPicture" : "sim.jpg"
 }
