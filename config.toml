@@ -1,18 +1,8 @@
 baseurl = "https://hugoroca.github.io/"
 title = "Hugo Roca"
-
-theme = "hugo-coder"
-
+theme = "uilite"
 languagecode = "es-PE"
 
-paginate = 20
-canonifyurls = true
-
-pygmentsstyle = "b2"
-pygmentscodefences = true
-pygmentscodefencesguesssyntax = true
-
-disqusShortname = "yourdiscussshortname"
 contentdir = "content"
 datadir = "data"
 layoutdir = "layouts"
